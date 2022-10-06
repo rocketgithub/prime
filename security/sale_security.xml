@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+<data>
+
+     <record id="grupo_descuento_maximo_admin" model="res.groups">
+        <field name="name">Validar orden con descuentos maximos</field>
+    </record>
+
+
+</data>
+</odoo>
