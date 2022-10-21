@@ -19,6 +19,7 @@
     'data': [
         'views/product_template_views.xml',
         'views/product_views.xml',
+        'views/sale_views.xml',
         'security/sale_security.xml',
     ],
 }
